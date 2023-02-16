@@ -11,7 +11,7 @@ public class Largest_element_in_an_array_user_input {
         int size = sc.nextInt();
 
         int[] arr = new int[size];
-        System.out.println("Enter the array elements:");
+        System.out.println("Enter the array elements: ");
 
         for (int i = 0; i < size; i++) {
             arr[i] = sc.nextInt();
