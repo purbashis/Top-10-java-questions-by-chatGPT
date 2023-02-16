@@ -1,6 +1,6 @@
 Write a Java program to find the largest element in an array.(done)
 Write a Java program to check if a given string is a palindrome or not.(done)
-Write a Java program to reverse a given string.
+Write a Java program to reverse a given string.(done)
 Write a Java program to find the second largest number in an array.
 Write a Java program to remove duplicates from an array.
 Write a Java program to find the intersection of two arrays.
