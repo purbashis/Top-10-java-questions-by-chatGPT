@@ -5,7 +5,7 @@ Write a Java program to find the second largest number in an array.(done)
 Write a Java program to remove duplicates from an array.
 Write a Java program to find the intersection of two arrays.(done)
 Write a Java program to sort an array in descending order.(done)
-Write a Java program to find the factorial of a given number.
+Write a Java program to find the factorial of a given number.(done)
 Write a Java program to swap two numbers without using a third variable.
 Write a Java program to implement a binary search algorithm.
 Input an email from the user. You have to create a username from the email by deleting the part that comes after ‘@’. Display that username to the user.
